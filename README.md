@@ -14,8 +14,6 @@ A Python application that uses your webcam to analyze facial proportions and rat
   - Nose Width / Mouth Width
   - Face Width / Lower Face Height
   - Mandible Width / Face Width
-- **Visual Feedback**: Real-time face mesh overlay and progress indicators
-- **Ideal Range References**: Compares your ratios to aesthetic ideals
 
 ## Requirements
 
